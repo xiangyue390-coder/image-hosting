@@ -192,11 +192,19 @@
     "B2/B2_06/street/talk": [
       "001.mp4"
     ],
-    "_props/workshop": [
+    "_props/egg_closed": [
+      "001.png"
+    ],
+    "_props/egg_open": [
       "001.mp4"
     ],
-    "_props/timeshop": [
-      "001.mp4"
+    "_props/egg_open_static": [
+      "001.png"
+    ],
+    "A2": [
+      "A2_greeting_street.mp4",
+      "A2_street_look_away.mp4",
+      "A2_timeshop_idle.mp4"
     ],
     "A2/A2_10/restaurant/idle": [
       "001.mp4",
@@ -467,6 +475,12 @@
     "A2/A2_07/rooftop_old/idle": [
       "001.mp4"
     ],
+    "_npc/cloaked_client/enter": [
+      "001.mp4"
+    ],
+    "_npc/cloaked_client/counter": [
+      "001.mp4"
+    ],
     "C1/C1_00/theater/idle": [
       "001.mp4"
     ],
@@ -726,14 +740,12 @@
     "_scene/workshop": [
       "001.mp4"
     ],
-    "_scene/timeshop": [
-      "001.mp4"
-    ],
     "_scene/flower_shop": [
       "001.mp4"
     ],
-    "_scene/street": [
-      "001.mp4"
+    "_scene/workshop_exterior": [
+      "001.mp4",
+      "001.png"
     ],
     "_scene/apartment_bedroom": [
       "001.mp4"
