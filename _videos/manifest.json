@@ -1,1059 +1,1071 @@
 {
-  "B2/portrait/B2_05": [
-    "001.mp4"
-  ],
-  "B2/portrait/B2_Florist": [
-    "001.mp4",
-    "002.mp4",
-    "003.mp4"
-  ],
-  "B2/portrait/B2_07": [
-    "001.mp4"
-  ],
-  "B2/portrait/B2_00": [
-    "001.mp4"
-  ],
-  "B2/portrait/B2_01": [
-    "001.mp4"
-  ],
-  "B2/portrait/B2_08": [
-    "001.mp4"
-  ],
-  "B2/B2_Florist/flower_shop/idle": [
-    "001.mp4",
-    "002.mp4",
-    "003.mp4"
-  ],
-  "B2/B2_00/restaurant/idle": [
-    "001.mp4"
-  ],
-  "B2/B2_00/riverside/idle": [
-    "001.mp4"
-  ],
-  "B2/B2_00/theater/idle": [
-    "001.mp4"
-  ],
-  "B2/B2_00/apartment_kitchen/idle": [
-    "001.mp4"
-  ],
-  "B2/B2_00/balcony/idle": [
-    "001.mp4"
-  ],
-  "B2/B2_00/observatory/idle": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "B2/B2_00/park/idle": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "B2/B2_00/skybridge/idle": [
-    "001.mp4"
-  ],
-  "B2/B2_00/library/finger_tap": [
-    "001.mp4"
-  ],
-  "B2/B2_00/cafe_arcade_rain/idle": [
-    "001.mp4"
-  ],
-  "B2/B2_00/teahouse/idle": [
-    "001.mp4"
-  ],
-  "B2/B2_00/teahouse/finger_tap": [
-    "001.mp4"
-  ],
-  "B2/B2_00/ruins/lean": [
-    "001.mp4"
-  ],
-  "B2/B2_00/rooftop_old/idle": [
-    "001.mp4"
-  ],
-  "B2/B2_00/flower_shop/idle": [
-    "001.mp4",
-    "002.mp4",
-    "003.mp4",
-    "004.mp4"
-  ],
-  "B2/B2_00/flower_shop/look_away": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "B2/B2_00/flower_shop/nod": [
-    "001.mp4"
-  ],
-  "B2/B2_00/flower_shop/sigh": [
-    "001.mp4"
-  ],
-  "B2/B2_00/flower_shop/smile": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "B2/B2_00/flower_shop/talk": [
-    "001.mp4",
-    "002.mp4",
-    "003.mp4",
-    "004.mp4",
-    "005.mp4",
-    "006.mp4"
-  ],
-  "B2/B2_00/street/idle": [
-    "001.mp4",
-    "002.mp4",
-    "003.mp4",
-    "004.mp4"
-  ],
-  "B2/B2_00/street/weight_shift": [
-    "001.mp4"
-  ],
-  "B2/B2_00/street/talk": [
-    "001.mp4"
-  ],
-  "B2/B2_00/arena/lean": [
-    "001.mp4"
-  ],
-  "B2/B2_00/apartment_bedroom/idle": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "B2/B2_00/apartment_bedroom/look_away": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "B2/B2_00/apartment_bedroom/wind": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "B2/B2_00/apartment_bedroom/nod": [
-    "001.mp4"
-  ],
-  "B2/B2_00/apartment_bedroom/gaze": [
-    "001.mp4"
-  ],
-  "B2/B2_00/apartment_bedroom/smile": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "B2/B2_00/apartment_bedroom/talk": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "B2/B2_00/cafe_arcade/idle": [
-    "001.mp4"
-  ],
-  "B2/B2_00/rooftop_modern/idle": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "B2/B2_06/street/idle": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "B2/B2_06/street/look_away": [
-    "001.mp4"
-  ],
-  "B2/B2_06/street/weight_shift": [
-    "001.mp4"
-  ],
-  "B2/B2_06/street/sad": [
-    "001.mp4"
-  ],
-  "B2/B2_06/street/fear": [
-    "001.mp4"
-  ],
-  "B2/B2_06/street/surprise": [
-    "001.mp4"
-  ],
-  "B2/B2_06/street/anger": [
-    "001.mp4"
-  ],
-  "B2/B2_06/street/nod": [
-    "001.mp4"
-  ],
-  "B2/B2_06/street/turn_head": [
-    "001.mp4"
-  ],
-  "B2/B2_06/street/sigh": [
-    "001.mp4"
-  ],
-  "B2/B2_06/street/smile": [
-    "001.mp4"
-  ],
-  "B2/B2_06/street/talk": [
-    "001.mp4"
-  ],
-  "_props/workshop": [
-    "001.mp4"
-  ],
-  "_props/timeshop": [
-    "001.mp4"
-  ],
-  "A2/A2_10/restaurant/idle": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "A2/A2_10/restaurant/finger_tap": [
-    "001.mp4"
-  ],
-  "A2/A2_10/restaurant/sip": [
-    "001.mp4"
-  ],
-  "A2/A2_10/riverside/idle": [
-    "001.mp4"
-  ],
-  "A2/A2_10/theater/idle": [
-    "001.mp4"
-  ],
-  "A2/A2_10/theater/smile": [
-    "001.mp4"
-  ],
-  "A2/A2_10/apartment_kitchen/idle": [
-    "001.mp4"
-  ],
-  "A2/A2_10/balcony/lean": [
-    "001.mp4"
-  ],
-  "A2/A2_10/cafe_modern/idle": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "A2/A2_10/cafe_modern/finger_tap": [
-    "001.mp4"
-  ],
-  "A2/A2_10/timeshop/idle": [
-    "001.mp4"
-  ],
-  "A2/A2_10/office/idle": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "A2/A2_10/office/lean": [
-    "001.mp4",
-    "002.mp4",
-    "003.mp4"
-  ],
-  "A2/A2_10/corridor/idle": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "A2/A2_10/corridor/smile": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "A2/A2_10/observatory/idle": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "A2/A2_10/observatory/smile": [
-    "001.mp4"
-  ],
-  "A2/A2_10/park/idle": [
-    "001.mp4"
-  ],
-  "A2/A2_10/skybridge/idle": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "A2/A2_10/apartment_living/idle": [
-    "001.mp4",
-    "002.mp4",
-    "003.mp4"
-  ],
-  "A2/A2_10/apartment_living/lean": [
-    "001.mp4"
-  ],
-  "A2/A2_10/apartment_living/look_away": [
-    "001.mp4",
-    "002.mp4",
-    "003.mp4"
-  ],
-  "A2/A2_10/apartment_living/wind": [
-    "001.mp4",
-    "002.mp4",
-    "003.mp4"
-  ],
-  "A2/A2_10/apartment_living/nod": [
-    "001.mp4"
-  ],
-  "A2/A2_10/apartment_living/turn_head": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "A2/A2_10/apartment_living/sigh": [
-    "001.mp4"
-  ],
-  "A2/A2_10/apartment_living/smile": [
-    "001.mp4",
-    "002.mp4",
-    "003.mp4",
-    "004.mp4",
-    "005.mp4",
-    "006.mp4",
-    "007.mp4",
-    "008.mp4",
-    "009.mp4",
-    "010.mp4",
-    "011.mp4",
-    "012.mp4",
-    "013.mp4",
-    "014.mp4"
-  ],
-  "A2/A2_10/apartment_living/talk": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "A2/A2_10/library/idle": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "A2/A2_10/library/smile": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "A2/A2_10/typhoon_pier/idle": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "A2/A2_10/teahouse/idle": [
-    "001.mp4"
-  ],
-  "A2/A2_10/teahouse/smile": [
-    "001.mp4"
-  ],
-  "A2/A2_10/ruins/idle": [
-    "001.mp4",
-    "002.mp4",
-    "003.mp4",
-    "004.mp4"
-  ],
-  "A2/A2_10/rooftop_old/idle": [
-    "001.mp4",
-    "002.mp4",
-    "003.mp4",
-    "004.mp4"
-  ],
-  "A2/A2_10/apartment_window/idle": [
-    "001.mp4"
-  ],
-  "A2/A2_10/street/idle": [
-    "001.mp4",
-    "002.mp4",
-    "003.mp4",
-    "004.mp4",
-    "005.mp4",
-    "006.mp4",
-    "007.mp4",
-    "008.mp4",
-    "009.mp4",
-    "010.mp4",
-    "011.mp4",
-    "012.mp4"
-  ],
-  "A2/A2_10/street/lean": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "A2/A2_10/apartment_bedroom/idle": [
-    "001.mp4",
-    "002.mp4",
-    "003.mp4",
-    "004.mp4",
-    "005.mp4"
-  ],
-  "A2/A2_10/apartment_bedroom/look_away": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "A2/A2_10/apartment_bedroom/wind": [
-    "001.mp4"
-  ],
-  "A2/A2_10/apartment_bedroom/gaze": [
-    "001.mp4"
-  ],
-  "A2/A2_10/apartment_bedroom/turn_head": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "A2/A2_10/apartment_bedroom/smile": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "A2/A2_10/apartment_bedroom/talk": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "A2/A2_10/rooftop_modern/idle": [
-    "001.mp4",
-    "002.mp4",
-    "003.mp4"
-  ],
-  "A2/A2_10/vinyl_loft/idle": [
-    "001.mp4"
-  ],
-  "A2/A2_10/vinyl_loft/lean": [
-    "001.mp4"
-  ],
-  "A2/A2_10/vinyl_loft/smile": [
-    "001.mp4"
-  ],
-  "A2/portrait/A2_10": [
-    "001.mp4"
-  ],
-  "A2/portrait/A2_02": [
-    "001.mp4"
-  ],
-  "A2/portrait/A2_03": [
-    "001.mp4"
-  ],
-  "A2/portrait/A2_04": [
-    "001.mp4"
-  ],
-  "A2/portrait/A2_06": [
-    "001.mp4"
-  ],
-  "A2/portrait/A2_07": [
-    "001.mp4"
-  ],
-  "A2/portrait/A2_00": [
-    "001.mp4"
-  ],
-  "A2/A2_03/street/idle": [
-    "001.mp4",
-    "002.mp4",
-    "003.mp4",
-    "004.mp4",
-    "005.mp4"
-  ],
-  "A2/A2_03/street/look_away": [
-    "001.mp4"
-  ],
-  "A2/A2_03/street/sad": [
-    "001.mp4"
-  ],
-  "A2/A2_03/street/fear": [
-    "001.mp4"
-  ],
-  "A2/A2_03/street/surprise": [
-    "001.mp4"
-  ],
-  "A2/A2_03/street/nod": [
-    "001.mp4"
-  ],
-  "A2/A2_03/street/turn_head": [
-    "001.mp4"
-  ],
-  "A2/A2_03/street/sigh": [
-    "001.mp4"
-  ],
-  "A2/A2_03/street/smile": [
-    "001.mp4"
-  ],
-  "A2/A2_03/street/talk": [
-    "001.mp4"
-  ],
-  "A2/A2_03/vinyl_loft/idle": [
-    "001.mp4"
-  ],
-  "A2/A2_07/rooftop_old/idle": [
-    "001.mp4"
-  ],
-  "C1/C1_00/theater/idle": [
-    "001.mp4"
-  ],
-  "C1/C1_00/corridor/idle": [
-    "001.mp4"
-  ],
-  "C1/C1_00/library/idle": [
-    "001.mp4"
-  ],
-  "C1/C1_00/library/smile": [
-    "001.mp4"
-  ],
-  "C1/C1_00/typhoon_pier/idle": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "C1/C1_00/teahouse/idle": [
-    "001.mp4"
-  ],
-  "C1/C1_00/teahouse/finger_tap": [
-    "001.mp4"
-  ],
-  "C1/C1_00/ruins/finger_tap": [
-    "001.mp4"
-  ],
-  "C1/C1_00/rooftop_old/idle": [
-    "001.mp4"
-  ],
-  "C1/C1_00/apartment_window/wind": [
-    "001.mp4"
-  ],
-  "C1/C1_00/street/idle": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "C1/C1_00/arena/idle": [
-    "001.mp4"
-  ],
-  "C1/C1_06/ruins/idle": [
-    "001.mp4"
-  ],
-  "C1/C1_01/corridor/sad": [
-    "001.mp4"
-  ],
-  "C1/C1_01/street/idle": [
-    "001.mp4",
-    "002.mp4",
-    "003.mp4"
-  ],
-  "C1/C1_01/street/look_away": [
-    "001.mp4"
-  ],
-  "C1/C1_01/street/fear": [
-    "001.mp4"
-  ],
-  "C1/C1_01/street/nod": [
-    "001.mp4"
-  ],
-  "C1/C1_01/street/turn_head": [
-    "001.mp4"
-  ],
-  "C1/C1_01/street/smile": [
-    "001.mp4"
-  ],
-  "C1/C1_01/street/talk": [
-    "001.mp4"
-  ],
-  "C1/portrait/C1_00": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "C1/portrait/C1_06": [
-    "001.mp4"
-  ],
-  "C1/portrait/C1_01": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "C1/portrait/C1_04": [
-    "001.mp4"
-  ],
-  "C1/portrait/C1_02": [
-    "001.mp4"
-  ],
-  "B1/B1_09/workshop/idle": [
-    "001.mp4"
-  ],
-  "B1/B1_00/workshop/idle": [
-    "001.mp4"
-  ],
-  "B1/B1_00/restaurant/idle": [
-    "001.mp4"
-  ],
-  "B1/B1_00/riverside/idle": [
-    "001.mp4"
-  ],
-  "B1/B1_00/riverside/lean": [
-    "001.mp4"
-  ],
-  "B1/B1_00/theater/idle": [
-    "001.mp4"
-  ],
-  "B1/B1_00/apartment_kitchen/lean": [
-    "001.mp4"
-  ],
-  "B1/B1_00/cafe_modern/idle": [
-    "001.mp4"
-  ],
-  "B1/B1_00/park/idle": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "B1/B1_00/skybridge/idle": [
-    "001.mp4"
-  ],
-  "B1/B1_00/skybridge/smile": [
-    "001.mp4"
-  ],
-  "B1/B1_00/apartment_living/idle": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "B1/B1_00/apartment_living/look_away": [
-    "001.mp4"
-  ],
-  "B1/B1_00/apartment_living/sigh": [
-    "001.mp4"
-  ],
-  "B1/B1_00/apartment_living/talk": [
-    "001.mp4"
-  ],
-  "B1/B1_00/library/idle": [
-    "001.mp4"
-  ],
-  "B1/B1_00/library/smile": [
-    "001.mp4"
-  ],
-  "B1/B1_00/teahouse/idle": [
-    "001.mp4"
-  ],
-  "B1/B1_00/teahouse/finger_tap": [
-    "001.mp4"
-  ],
-  "B1/B1_00/ruins/idle": [
-    "001.mp4"
-  ],
-  "B1/B1_00/ruins/lean": [
-    "001.mp4"
-  ],
-  "B1/B1_00/rooftop_old/idle": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "B1/B1_00/flower_shop/idle": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "B1/B1_00/street/idle": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "B1/B1_00/street/lean": [
-    "001.mp4"
-  ],
-  "B1/B1_00/street/carrying": [
-    "001.mp4"
-  ],
-  "B1/B1_00/street/smile": [
-    "001.mp4"
-  ],
-  "B1/B1_00/apartment_bedroom/idle": [
-    "001.mp4"
-  ],
-  "B1/B1_00/cafe_arcade/idle": [
-    "001.mp4"
-  ],
-  "B1/B1_00/rooftop_modern/idle": [
-    "001.mp4"
-  ],
-  "B1/B1_08/cafe_modern/idle": [
-    "001.mp4"
-  ],
-  "B1/portrait/B1_09": [
-    "001.mp4"
-  ],
-  "B1/portrait/B1_07": [
-    "001.mp4"
-  ],
-  "B1/portrait/B1_00": [
-    "001.mp4",
-    "002.mp4",
-    "003.mp4"
-  ],
-  "B1/portrait/B1_01": [
-    "001.mp4"
-  ],
-  "B1/portrait/B1_06": [
-    "001.mp4"
-  ],
-  "B1/portrait/B1_08": [
-    "001.mp4"
-  ],
-  "B1/portrait/B1_03": [
-    "001.mp4"
-  ],
-  "B1/portrait/B1_04": [
-    "001.mp4"
-  ],
-  "B1/portrait/B1_05": [
-    "001.mp4"
-  ],
-  "B1/portrait/B1_02": [
-    "001.mp4"
-  ],
-  "B1/B1_03/teahouse/idle": [
-    "001.mp4"
-  ],
-  "B1/B1_03/street/idle": [
-    "001.mp4"
-  ],
-  "B1/B1_02/street/idle": [
-    "001.mp4",
-    "002.mp4",
-    "003.mp4",
-    "004.mp4"
-  ],
-  "B1/B1_02/street/look_away": [
-    "001.mp4"
-  ],
-  "B1/B1_02/street/sad": [
-    "001.mp4"
-  ],
-  "B1/B1_02/street/fear": [
-    "001.mp4"
-  ],
-  "B1/B1_02/street/surprise": [
-    "001.mp4"
-  ],
-  "B1/B1_02/street/anger": [
-    "001.mp4"
-  ],
-  "B1/B1_02/street/nod": [
-    "001.mp4"
-  ],
-  "B1/B1_02/street/turn_head": [
-    "001.mp4"
-  ],
-  "B1/B1_02/street/sigh": [
-    "001.mp4"
-  ],
-  "B1/B1_02/street/smile": [
-    "001.mp4"
-  ],
-  "B1/B1_02/street/talk": [
-    "001.mp4"
-  ],
-  "_scene/workshop": [
-    "001.mp4"
-  ],
-  "_scene/timeshop": [
-    "001.mp4"
-  ],
-  "_scene/flower_shop": [
-    "001.mp4"
-  ],
-  "_scene/street": [
-    "001.mp4"
-  ],
-  "_scene/apartment_bedroom": [
-    "001.mp4"
-  ],
-  "A1/A1_01/street/idle": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "A1/A1_01/apartment_bedroom/idle": [
-    "001.mp4"
-  ],
-  "A1/A1_06/observatory/idle": [
-    "001.mp4"
-  ],
-  "A1/A1_06/street/idle": [
-    "001.mp4"
-  ],
-  "A1/A1_00/restaurant/idle": [
-    "001.mp4",
-    "002.mp4",
-    "003.mp4"
-  ],
-  "A1/A1_00/riverside/idle": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "A1/A1_00/theater/idle": [
-    "001.mp4"
-  ],
-  "A1/A1_00/theater/weight_shift": [
-    "001.mp4"
-  ],
-  "A1/A1_00/balcony/idle": [
-    "001.mp4"
-  ],
-  "A1/A1_00/office/idle": [
-    "001.mp4",
-    "002.mp4",
-    "003.mp4",
-    "004.mp4"
-  ],
-  "A1/A1_00/corridor/idle": [
-    "001.mp4"
-  ],
-  "A1/A1_00/park/idle": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "A1/A1_00/skybridge/idle": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "A1/A1_00/apartment_living/idle": [
-    "001.mp4",
-    "002.mp4",
-    "003.mp4",
-    "004.mp4",
-    "005.mp4"
-  ],
-  "A1/A1_00/apartment_living/wind": [
-    "001.mp4"
-  ],
-  "A1/A1_00/library/idle": [
-    "001.mp4"
-  ],
-  "A1/A1_00/library/smile": [
-    "001.mp4"
-  ],
-  "A1/A1_00/teahouse/idle": [
-    "001.mp4"
-  ],
-  "A1/A1_00/teahouse/finger_tap": [
-    "001.mp4"
-  ],
-  "A1/A1_00/ruins/idle": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "A1/A1_00/rooftop_old/idle": [
-    "001.mp4"
-  ],
-  "A1/A1_00/rooftop_old/lean": [
-    "001.mp4"
-  ],
-  "A1/A1_00/apartment_window/idle": [
-    "001.mp4"
-  ],
-  "A1/A1_00/street/idle": [
-    "001.mp4",
-    "002.mp4",
-    "003.mp4",
-    "004.mp4",
-    "005.mp4"
-  ],
-  "A1/A1_00/street/look_away": [
-    "001.mp4"
-  ],
-  "A1/A1_00/street/fear": [
-    "001.mp4"
-  ],
-  "A1/A1_00/street/surprise": [
-    "001.mp4"
-  ],
-  "A1/A1_00/street/nod": [
-    "001.mp4"
-  ],
-  "A1/A1_00/street/turn_head": [
-    "001.mp4"
-  ],
-  "A1/A1_00/street/sigh": [
-    "001.mp4"
-  ],
-  "A1/A1_00/street/smile": [
-    "001.mp4"
-  ],
-  "A1/A1_00/street/talk": [
-    "001.mp4"
-  ],
-  "A1/A1_00/apartment_bedroom/gaze": [
-    "001.mp4"
-  ],
-  "A1/A1_00/apartment_bedroom/smile": [
-    "001.mp4"
-  ],
-  "A1/A1_00/cafe_arcade/idle": [
-    "001.mp4"
-  ],
-  "A1/A1_00/cafe_arcade/finger_tap": [
-    "001.mp4"
-  ],
-  "A1/A1_00/rooftop_modern/idle": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "A1/A1_00/vinyl_loft/idle": [
-    "001.mp4"
-  ],
-  "A1/portrait/A1_01": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "A1/portrait/A1_06": [
-    "001.mp4"
-  ],
-  "A1/portrait/A1_00": [
-    "001.mp4"
-  ],
-  "A1/portrait/A1_05": [
-    "001.mp4"
-  ],
-  "A1/portrait/A1_02": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "A1/portrait/A1_03": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "A1/portrait/A1_04": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "A1/A1_05/apartment_kitchen/idle": [
-    "001.mp4"
-  ],
-  "A1/A1_02/apartment_window/idle": [
-    "001.mp4"
-  ],
-  "A1/A1_04/apartment_living/idle": [
-    "001.mp4"
-  ],
-  "A1/A1_04/gym/idle": [
-    "001.mp4"
-  ],
-  "C2/portrait/C2_04": [
-    "001.mp4"
-  ],
-  "C2/portrait/C2_03": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "C2/portrait/C2_02": [
-    "001.mp4"
-  ],
-  "C2/portrait/C2_05": [
-    "001.mp4"
-  ],
-  "C2/portrait/C2_00": [
-    "001.mp4",
-    "002.mp4",
-    "003.mp4",
-    "004.mp4"
-  ],
-  "C2/portrait/C2_07": [
-    "001.mp4"
-  ],
-  "C2/portrait/C2_09": [
-    "001.mp4"
-  ],
-  "C2/portrait/C2_01": [
-    "001.mp4"
-  ],
-  "C2/C2_00/riverside/idle": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "C2/C2_00/theater/idle": [
-    "001.mp4",
-    "002.mp4",
-    "003.mp4",
-    "004.mp4",
-    "005.mp4",
-    "006.mp4",
-    "007.mp4",
-    "008.mp4"
-  ],
-  "C2/C2_00/theater/kiss_blow": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "C2/C2_00/theater/v_sign": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "C2/C2_00/theater/smile": [
-    "001.mp4"
-  ],
-  "C2/C2_00/cafe_modern/idle": [
-    "001.mp4"
-  ],
-  "C2/C2_00/cafe_modern/finger_tap": [
-    "001.mp4"
-  ],
-  "C2/C2_00/observatory/idle": [
-    "001.mp4"
-  ],
-  "C2/C2_00/observatory/finger_tap": [
-    "001.mp4"
-  ],
-  "C2/C2_00/park/idle": [
-    "001.mp4"
-  ],
-  "C2/C2_00/park/lean": [
-    "001.mp4"
-  ],
-  "C2/C2_00/apartment_living/idle": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "C2/C2_00/apartment_living/look_away": [
-    "001.mp4"
-  ],
-  "C2/C2_00/apartment_living/wind": [
-    "001.mp4"
-  ],
-  "C2/C2_00/apartment_living/turn_head": [
-    "001.mp4"
-  ],
-  "C2/C2_00/apartment_living/talk": [
-    "001.mp4"
-  ],
-  "C2/C2_00/library/idle": [
-    "001.mp4"
-  ],
-  "C2/C2_00/library/lean": [
-    "001.mp4"
-  ],
-  "C2/C2_00/library/smile": [
-    "001.mp4"
-  ],
-  "C2/C2_00/cafe_arcade_rain/idle": [
-    "001.mp4"
-  ],
-  "C2/C2_00/cafe_arcade_rain/finger_tap": [
-    "001.mp4"
-  ],
-  "C2/C2_00/teahouse/idle": [
-    "001.mp4"
-  ],
-  "C2/C2_00/teahouse/finger_tap": [
-    "001.mp4"
-  ],
-  "C2/C2_00/ruins/idle": [
-    "001.mp4",
-    "002.mp4"
-  ],
-  "C2/C2_00/rooftop_old/idle": [
-    "001.mp4"
-  ],
-  "C2/C2_00/street/idle": [
-    "001.mp4",
-    "002.mp4",
-    "003.mp4"
-  ],
-  "C2/C2_00/street/lean": [
-    "001.mp4"
-  ],
-  "C2/C2_00/street/look_away": [
-    "001.mp4"
-  ],
-  "C2/C2_00/street/sad": [
-    "001.mp4"
-  ],
-  "C2/C2_00/street/fear": [
-    "001.mp4"
-  ],
-  "C2/C2_00/street/surprise": [
-    "001.mp4"
-  ],
-  "C2/C2_00/street/anger": [
-    "001.mp4"
-  ],
-  "C2/C2_00/street/nod": [
-    "001.mp4"
-  ],
-  "C2/C2_00/street/sigh": [
-    "001.mp4"
-  ],
-  "C2/C2_00/street/smile": [
-    "001.mp4"
-  ],
-  "C2/C2_00/street/talk": [
-    "001.mp4"
-  ],
-  "C2/C2_00/arena/idle": [
-    "001.mp4"
-  ],
-  "C2/C2_00/rooftop_modern/idle": [
-    "001.mp4"
-  ],
-  "C2/C2_09/theater/idle": [
-    "001.mp4"
-  ]
+  "chapter_outfits": {
+    "Chapter1": {
+      "A1": "A1_00",
+      "A2": "A2_10",
+      "B1": "B1_03",
+      "B2": "B2_Florist",
+      "C1": "C1_00",
+      "C2": "C2_00"
+    }
+  },
+  "files": {
+    "B2/portrait/B2_05": [
+      "001.mp4"
+    ],
+    "B2/portrait/B2_Florist": [
+      "001.mp4",
+      "002.mp4",
+      "003.mp4"
+    ],
+    "B2/portrait/B2_07": [
+      "001.mp4"
+    ],
+    "B2/portrait/B2_00": [
+      "001.mp4"
+    ],
+    "B2/portrait/B2_01": [
+      "001.mp4"
+    ],
+    "B2/portrait/B2_08": [
+      "001.mp4"
+    ],
+    "B2/B2_Florist/flower_shop/idle": [
+      "001.mp4",
+      "002.mp4",
+      "003.mp4"
+    ],
+    "B2/B2_00/restaurant/idle": [
+      "001.mp4"
+    ],
+    "B2/B2_00/riverside/idle": [
+      "001.mp4"
+    ],
+    "B2/B2_00/theater/idle": [
+      "001.mp4"
+    ],
+    "B2/B2_00/apartment_kitchen/idle": [
+      "001.mp4"
+    ],
+    "B2/B2_00/balcony/idle": [
+      "001.mp4"
+    ],
+    "B2/B2_00/observatory/idle": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "B2/B2_00/park/idle": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "B2/B2_00/skybridge/idle": [
+      "001.mp4"
+    ],
+    "B2/B2_00/library/finger_tap": [
+      "001.mp4"
+    ],
+    "B2/B2_00/cafe_arcade_rain/idle": [
+      "001.mp4"
+    ],
+    "B2/B2_00/teahouse/idle": [
+      "001.mp4"
+    ],
+    "B2/B2_00/teahouse/finger_tap": [
+      "001.mp4"
+    ],
+    "B2/B2_00/ruins/lean": [
+      "001.mp4"
+    ],
+    "B2/B2_00/rooftop_old/idle": [
+      "001.mp4"
+    ],
+    "B2/B2_00/flower_shop/idle": [
+      "001.mp4",
+      "002.mp4",
+      "003.mp4",
+      "004.mp4"
+    ],
+    "B2/B2_00/flower_shop/look_away": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "B2/B2_00/flower_shop/nod": [
+      "001.mp4"
+    ],
+    "B2/B2_00/flower_shop/sigh": [
+      "001.mp4"
+    ],
+    "B2/B2_00/flower_shop/smile": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "B2/B2_00/flower_shop/talk": [
+      "001.mp4",
+      "002.mp4",
+      "003.mp4",
+      "004.mp4",
+      "005.mp4",
+      "006.mp4"
+    ],
+    "B2/B2_00/street/idle": [
+      "001.mp4",
+      "002.mp4",
+      "003.mp4",
+      "004.mp4"
+    ],
+    "B2/B2_00/street/weight_shift": [
+      "001.mp4"
+    ],
+    "B2/B2_00/street/talk": [
+      "001.mp4"
+    ],
+    "B2/B2_00/arena/lean": [
+      "001.mp4"
+    ],
+    "B2/B2_00/apartment_bedroom/idle": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "B2/B2_00/apartment_bedroom/look_away": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "B2/B2_00/apartment_bedroom/wind": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "B2/B2_00/apartment_bedroom/nod": [
+      "001.mp4"
+    ],
+    "B2/B2_00/apartment_bedroom/gaze": [
+      "001.mp4"
+    ],
+    "B2/B2_00/apartment_bedroom/smile": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "B2/B2_00/apartment_bedroom/talk": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "B2/B2_00/cafe_arcade/idle": [
+      "001.mp4"
+    ],
+    "B2/B2_00/rooftop_modern/idle": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "B2/B2_06/street/idle": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "B2/B2_06/street/look_away": [
+      "001.mp4"
+    ],
+    "B2/B2_06/street/weight_shift": [
+      "001.mp4"
+    ],
+    "B2/B2_06/street/sad": [
+      "001.mp4"
+    ],
+    "B2/B2_06/street/fear": [
+      "001.mp4"
+    ],
+    "B2/B2_06/street/surprise": [
+      "001.mp4"
+    ],
+    "B2/B2_06/street/anger": [
+      "001.mp4"
+    ],
+    "B2/B2_06/street/nod": [
+      "001.mp4"
+    ],
+    "B2/B2_06/street/turn_head": [
+      "001.mp4"
+    ],
+    "B2/B2_06/street/sigh": [
+      "001.mp4"
+    ],
+    "B2/B2_06/street/smile": [
+      "001.mp4"
+    ],
+    "B2/B2_06/street/talk": [
+      "001.mp4"
+    ],
+    "_props/workshop": [
+      "001.mp4"
+    ],
+    "_props/timeshop": [
+      "001.mp4"
+    ],
+    "A2/A2_10/restaurant/idle": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "A2/A2_10/restaurant/finger_tap": [
+      "001.mp4"
+    ],
+    "A2/A2_10/restaurant/sip": [
+      "001.mp4"
+    ],
+    "A2/A2_10/riverside/idle": [
+      "001.mp4"
+    ],
+    "A2/A2_10/theater/idle": [
+      "001.mp4"
+    ],
+    "A2/A2_10/theater/smile": [
+      "001.mp4"
+    ],
+    "A2/A2_10/apartment_kitchen/idle": [
+      "001.mp4"
+    ],
+    "A2/A2_10/balcony/lean": [
+      "001.mp4"
+    ],
+    "A2/A2_10/cafe_modern/idle": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "A2/A2_10/cafe_modern/finger_tap": [
+      "001.mp4"
+    ],
+    "A2/A2_10/timeshop/idle": [
+      "001.mp4"
+    ],
+    "A2/A2_10/office/idle": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "A2/A2_10/office/lean": [
+      "001.mp4",
+      "002.mp4",
+      "003.mp4"
+    ],
+    "A2/A2_10/corridor/idle": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "A2/A2_10/corridor/smile": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "A2/A2_10/observatory/idle": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "A2/A2_10/observatory/smile": [
+      "001.mp4"
+    ],
+    "A2/A2_10/park/idle": [
+      "001.mp4"
+    ],
+    "A2/A2_10/skybridge/idle": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "A2/A2_10/apartment_living/idle": [
+      "001.mp4",
+      "002.mp4",
+      "003.mp4"
+    ],
+    "A2/A2_10/apartment_living/lean": [
+      "001.mp4"
+    ],
+    "A2/A2_10/apartment_living/look_away": [
+      "001.mp4",
+      "002.mp4",
+      "003.mp4"
+    ],
+    "A2/A2_10/apartment_living/wind": [
+      "001.mp4",
+      "002.mp4",
+      "003.mp4"
+    ],
+    "A2/A2_10/apartment_living/nod": [
+      "001.mp4"
+    ],
+    "A2/A2_10/apartment_living/turn_head": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "A2/A2_10/apartment_living/sigh": [
+      "001.mp4"
+    ],
+    "A2/A2_10/apartment_living/smile": [
+      "001.mp4",
+      "002.mp4",
+      "003.mp4",
+      "004.mp4",
+      "005.mp4",
+      "006.mp4",
+      "007.mp4",
+      "008.mp4",
+      "009.mp4",
+      "010.mp4",
+      "011.mp4",
+      "012.mp4",
+      "013.mp4",
+      "014.mp4"
+    ],
+    "A2/A2_10/apartment_living/talk": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "A2/A2_10/library/idle": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "A2/A2_10/library/smile": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "A2/A2_10/typhoon_pier/idle": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "A2/A2_10/teahouse/idle": [
+      "001.mp4"
+    ],
+    "A2/A2_10/teahouse/smile": [
+      "001.mp4"
+    ],
+    "A2/A2_10/ruins/idle": [
+      "001.mp4",
+      "002.mp4",
+      "003.mp4",
+      "004.mp4"
+    ],
+    "A2/A2_10/rooftop_old/idle": [
+      "001.mp4",
+      "002.mp4",
+      "003.mp4",
+      "004.mp4"
+    ],
+    "A2/A2_10/apartment_window/idle": [
+      "001.mp4"
+    ],
+    "A2/A2_10/street/idle": [
+      "001.mp4",
+      "002.mp4",
+      "003.mp4",
+      "004.mp4",
+      "005.mp4",
+      "006.mp4",
+      "007.mp4",
+      "008.mp4",
+      "009.mp4",
+      "010.mp4",
+      "011.mp4",
+      "012.mp4"
+    ],
+    "A2/A2_10/street/lean": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "A2/A2_10/apartment_bedroom/idle": [
+      "001.mp4",
+      "002.mp4",
+      "003.mp4",
+      "004.mp4",
+      "005.mp4"
+    ],
+    "A2/A2_10/apartment_bedroom/look_away": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "A2/A2_10/apartment_bedroom/wind": [
+      "001.mp4"
+    ],
+    "A2/A2_10/apartment_bedroom/gaze": [
+      "001.mp4"
+    ],
+    "A2/A2_10/apartment_bedroom/turn_head": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "A2/A2_10/apartment_bedroom/smile": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "A2/A2_10/apartment_bedroom/talk": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "A2/A2_10/rooftop_modern/idle": [
+      "001.mp4",
+      "002.mp4",
+      "003.mp4"
+    ],
+    "A2/A2_10/vinyl_loft/idle": [
+      "001.mp4"
+    ],
+    "A2/A2_10/vinyl_loft/lean": [
+      "001.mp4"
+    ],
+    "A2/A2_10/vinyl_loft/smile": [
+      "001.mp4"
+    ],
+    "A2/portrait/A2_10": [
+      "001.mp4"
+    ],
+    "A2/portrait/A2_02": [
+      "001.mp4"
+    ],
+    "A2/portrait/A2_03": [
+      "001.mp4"
+    ],
+    "A2/portrait/A2_04": [
+      "001.mp4"
+    ],
+    "A2/portrait/A2_06": [
+      "001.mp4"
+    ],
+    "A2/portrait/A2_07": [
+      "001.mp4"
+    ],
+    "A2/portrait/A2_00": [
+      "001.mp4"
+    ],
+    "A2/A2_03/street/idle": [
+      "001.mp4",
+      "002.mp4",
+      "003.mp4",
+      "004.mp4",
+      "005.mp4"
+    ],
+    "A2/A2_03/street/look_away": [
+      "001.mp4"
+    ],
+    "A2/A2_03/street/sad": [
+      "001.mp4"
+    ],
+    "A2/A2_03/street/fear": [
+      "001.mp4"
+    ],
+    "A2/A2_03/street/surprise": [
+      "001.mp4"
+    ],
+    "A2/A2_03/street/nod": [
+      "001.mp4"
+    ],
+    "A2/A2_03/street/turn_head": [
+      "001.mp4"
+    ],
+    "A2/A2_03/street/sigh": [
+      "001.mp4"
+    ],
+    "A2/A2_03/street/smile": [
+      "001.mp4"
+    ],
+    "A2/A2_03/street/talk": [
+      "001.mp4"
+    ],
+    "A2/A2_03/vinyl_loft/idle": [
+      "001.mp4"
+    ],
+    "A2/A2_07/rooftop_old/idle": [
+      "001.mp4"
+    ],
+    "C1/C1_00/theater/idle": [
+      "001.mp4"
+    ],
+    "C1/C1_00/corridor/idle": [
+      "001.mp4"
+    ],
+    "C1/C1_00/library/idle": [
+      "001.mp4"
+    ],
+    "C1/C1_00/library/smile": [
+      "001.mp4"
+    ],
+    "C1/C1_00/typhoon_pier/idle": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "C1/C1_00/teahouse/idle": [
+      "001.mp4"
+    ],
+    "C1/C1_00/teahouse/finger_tap": [
+      "001.mp4"
+    ],
+    "C1/C1_00/ruins/finger_tap": [
+      "001.mp4"
+    ],
+    "C1/C1_00/rooftop_old/idle": [
+      "001.mp4"
+    ],
+    "C1/C1_00/apartment_window/wind": [
+      "001.mp4"
+    ],
+    "C1/C1_00/street/idle": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "C1/C1_00/arena/idle": [
+      "001.mp4"
+    ],
+    "C1/C1_06/ruins/idle": [
+      "001.mp4"
+    ],
+    "C1/C1_01/corridor/sad": [
+      "001.mp4"
+    ],
+    "C1/C1_01/street/idle": [
+      "001.mp4",
+      "002.mp4",
+      "003.mp4"
+    ],
+    "C1/C1_01/street/look_away": [
+      "001.mp4"
+    ],
+    "C1/C1_01/street/fear": [
+      "001.mp4"
+    ],
+    "C1/C1_01/street/nod": [
+      "001.mp4"
+    ],
+    "C1/C1_01/street/turn_head": [
+      "001.mp4"
+    ],
+    "C1/C1_01/street/smile": [
+      "001.mp4"
+    ],
+    "C1/C1_01/street/talk": [
+      "001.mp4"
+    ],
+    "C1/portrait/C1_00": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "C1/portrait/C1_06": [
+      "001.mp4"
+    ],
+    "C1/portrait/C1_01": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "C1/portrait/C1_04": [
+      "001.mp4"
+    ],
+    "C1/portrait/C1_02": [
+      "001.mp4"
+    ],
+    "B1/B1_09/workshop/idle": [
+      "001.mp4"
+    ],
+    "B1/B1_00/workshop/idle": [
+      "001.mp4"
+    ],
+    "B1/B1_00/restaurant/idle": [
+      "001.mp4"
+    ],
+    "B1/B1_00/riverside/idle": [
+      "001.mp4"
+    ],
+    "B1/B1_00/riverside/lean": [
+      "001.mp4"
+    ],
+    "B1/B1_00/theater/idle": [
+      "001.mp4"
+    ],
+    "B1/B1_00/apartment_kitchen/lean": [
+      "001.mp4"
+    ],
+    "B1/B1_00/cafe_modern/idle": [
+      "001.mp4"
+    ],
+    "B1/B1_00/park/idle": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "B1/B1_00/skybridge/idle": [
+      "001.mp4"
+    ],
+    "B1/B1_00/skybridge/smile": [
+      "001.mp4"
+    ],
+    "B1/B1_00/apartment_living/idle": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "B1/B1_00/apartment_living/look_away": [
+      "001.mp4"
+    ],
+    "B1/B1_00/apartment_living/sigh": [
+      "001.mp4"
+    ],
+    "B1/B1_00/apartment_living/talk": [
+      "001.mp4"
+    ],
+    "B1/B1_00/library/idle": [
+      "001.mp4"
+    ],
+    "B1/B1_00/library/smile": [
+      "001.mp4"
+    ],
+    "B1/B1_00/teahouse/idle": [
+      "001.mp4"
+    ],
+    "B1/B1_00/teahouse/finger_tap": [
+      "001.mp4"
+    ],
+    "B1/B1_00/ruins/idle": [
+      "001.mp4"
+    ],
+    "B1/B1_00/ruins/lean": [
+      "001.mp4"
+    ],
+    "B1/B1_00/rooftop_old/idle": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "B1/B1_00/flower_shop/idle": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "B1/B1_00/street/idle": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "B1/B1_00/street/lean": [
+      "001.mp4"
+    ],
+    "B1/B1_00/street/carrying": [
+      "001.mp4"
+    ],
+    "B1/B1_00/street/smile": [
+      "001.mp4"
+    ],
+    "B1/B1_00/apartment_bedroom/idle": [
+      "001.mp4"
+    ],
+    "B1/B1_00/cafe_arcade/idle": [
+      "001.mp4"
+    ],
+    "B1/B1_00/rooftop_modern/idle": [
+      "001.mp4"
+    ],
+    "B1/B1_08/cafe_modern/idle": [
+      "001.mp4"
+    ],
+    "B1/portrait/B1_09": [
+      "001.mp4"
+    ],
+    "B1/portrait/B1_07": [
+      "001.mp4"
+    ],
+    "B1/portrait/B1_00": [
+      "001.mp4",
+      "002.mp4",
+      "003.mp4"
+    ],
+    "B1/portrait/B1_01": [
+      "001.mp4"
+    ],
+    "B1/portrait/B1_06": [
+      "001.mp4"
+    ],
+    "B1/portrait/B1_08": [
+      "001.mp4"
+    ],
+    "B1/portrait/B1_03": [
+      "001.mp4"
+    ],
+    "B1/portrait/B1_04": [
+      "001.mp4"
+    ],
+    "B1/portrait/B1_05": [
+      "001.mp4"
+    ],
+    "B1/portrait/B1_02": [
+      "001.mp4"
+    ],
+    "B1/B1_03/teahouse/idle": [
+      "001.mp4"
+    ],
+    "B1/B1_03/street/idle": [
+      "001.mp4"
+    ],
+    "B1/B1_02/street/idle": [
+      "001.mp4",
+      "002.mp4",
+      "003.mp4",
+      "004.mp4"
+    ],
+    "B1/B1_02/street/look_away": [
+      "001.mp4"
+    ],
+    "B1/B1_02/street/sad": [
+      "001.mp4"
+    ],
+    "B1/B1_02/street/fear": [
+      "001.mp4"
+    ],
+    "B1/B1_02/street/surprise": [
+      "001.mp4"
+    ],
+    "B1/B1_02/street/anger": [
+      "001.mp4"
+    ],
+    "B1/B1_02/street/nod": [
+      "001.mp4"
+    ],
+    "B1/B1_02/street/turn_head": [
+      "001.mp4"
+    ],
+    "B1/B1_02/street/sigh": [
+      "001.mp4"
+    ],
+    "B1/B1_02/street/smile": [
+      "001.mp4"
+    ],
+    "B1/B1_02/street/talk": [
+      "001.mp4"
+    ],
+    "_scene/workshop": [
+      "001.mp4"
+    ],
+    "_scene/timeshop": [
+      "001.mp4"
+    ],
+    "_scene/flower_shop": [
+      "001.mp4"
+    ],
+    "_scene/street": [
+      "001.mp4"
+    ],
+    "_scene/apartment_bedroom": [
+      "001.mp4"
+    ],
+    "A1/A1_01/street/idle": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "A1/A1_01/apartment_bedroom/idle": [
+      "001.mp4"
+    ],
+    "A1/A1_06/observatory/idle": [
+      "001.mp4"
+    ],
+    "A1/A1_06/street/idle": [
+      "001.mp4"
+    ],
+    "A1/A1_00/restaurant/idle": [
+      "001.mp4",
+      "002.mp4",
+      "003.mp4"
+    ],
+    "A1/A1_00/riverside/idle": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "A1/A1_00/theater/idle": [
+      "001.mp4"
+    ],
+    "A1/A1_00/theater/weight_shift": [
+      "001.mp4"
+    ],
+    "A1/A1_00/balcony/idle": [
+      "001.mp4"
+    ],
+    "A1/A1_00/office/idle": [
+      "001.mp4",
+      "002.mp4",
+      "003.mp4",
+      "004.mp4"
+    ],
+    "A1/A1_00/corridor/idle": [
+      "001.mp4"
+    ],
+    "A1/A1_00/park/idle": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "A1/A1_00/skybridge/idle": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "A1/A1_00/apartment_living/idle": [
+      "001.mp4",
+      "002.mp4",
+      "003.mp4",
+      "004.mp4",
+      "005.mp4"
+    ],
+    "A1/A1_00/apartment_living/wind": [
+      "001.mp4"
+    ],
+    "A1/A1_00/library/idle": [
+      "001.mp4"
+    ],
+    "A1/A1_00/library/smile": [
+      "001.mp4"
+    ],
+    "A1/A1_00/teahouse/idle": [
+      "001.mp4"
+    ],
+    "A1/A1_00/teahouse/finger_tap": [
+      "001.mp4"
+    ],
+    "A1/A1_00/ruins/idle": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "A1/A1_00/rooftop_old/idle": [
+      "001.mp4"
+    ],
+    "A1/A1_00/rooftop_old/lean": [
+      "001.mp4"
+    ],
+    "A1/A1_00/apartment_window/idle": [
+      "001.mp4"
+    ],
+    "A1/A1_00/street/idle": [
+      "001.mp4",
+      "002.mp4",
+      "003.mp4",
+      "004.mp4",
+      "005.mp4"
+    ],
+    "A1/A1_00/street/look_away": [
+      "001.mp4"
+    ],
+    "A1/A1_00/street/fear": [
+      "001.mp4"
+    ],
+    "A1/A1_00/street/surprise": [
+      "001.mp4"
+    ],
+    "A1/A1_00/street/nod": [
+      "001.mp4"
+    ],
+    "A1/A1_00/street/turn_head": [
+      "001.mp4"
+    ],
+    "A1/A1_00/street/sigh": [
+      "001.mp4"
+    ],
+    "A1/A1_00/street/smile": [
+      "001.mp4"
+    ],
+    "A1/A1_00/street/talk": [
+      "001.mp4"
+    ],
+    "A1/A1_00/apartment_bedroom/gaze": [
+      "001.mp4"
+    ],
+    "A1/A1_00/apartment_bedroom/smile": [
+      "001.mp4"
+    ],
+    "A1/A1_00/cafe_arcade/idle": [
+      "001.mp4"
+    ],
+    "A1/A1_00/cafe_arcade/finger_tap": [
+      "001.mp4"
+    ],
+    "A1/A1_00/rooftop_modern/idle": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "A1/A1_00/vinyl_loft/idle": [
+      "001.mp4"
+    ],
+    "A1/portrait/A1_01": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "A1/portrait/A1_06": [
+      "001.mp4"
+    ],
+    "A1/portrait/A1_00": [
+      "001.mp4"
+    ],
+    "A1/portrait/A1_05": [
+      "001.mp4"
+    ],
+    "A1/portrait/A1_02": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "A1/portrait/A1_03": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "A1/portrait/A1_04": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "A1/A1_05/apartment_kitchen/idle": [
+      "001.mp4"
+    ],
+    "A1/A1_02/apartment_window/idle": [
+      "001.mp4"
+    ],
+    "A1/A1_04/apartment_living/idle": [
+      "001.mp4"
+    ],
+    "A1/A1_04/gym/idle": [
+      "001.mp4"
+    ],
+    "C2/portrait/C2_04": [
+      "001.mp4"
+    ],
+    "C2/portrait/C2_03": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "C2/portrait/C2_02": [
+      "001.mp4"
+    ],
+    "C2/portrait/C2_05": [
+      "001.mp4"
+    ],
+    "C2/portrait/C2_00": [
+      "001.mp4",
+      "002.mp4",
+      "003.mp4",
+      "004.mp4"
+    ],
+    "C2/portrait/C2_07": [
+      "001.mp4"
+    ],
+    "C2/portrait/C2_09": [
+      "001.mp4"
+    ],
+    "C2/portrait/C2_01": [
+      "001.mp4"
+    ],
+    "C2/C2_00/riverside/idle": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "C2/C2_00/theater/idle": [
+      "001.mp4",
+      "002.mp4",
+      "003.mp4",
+      "004.mp4",
+      "005.mp4",
+      "006.mp4",
+      "007.mp4",
+      "008.mp4"
+    ],
+    "C2/C2_00/theater/kiss_blow": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "C2/C2_00/theater/v_sign": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "C2/C2_00/theater/smile": [
+      "001.mp4"
+    ],
+    "C2/C2_00/cafe_modern/idle": [
+      "001.mp4"
+    ],
+    "C2/C2_00/cafe_modern/finger_tap": [
+      "001.mp4"
+    ],
+    "C2/C2_00/observatory/idle": [
+      "001.mp4"
+    ],
+    "C2/C2_00/observatory/finger_tap": [
+      "001.mp4"
+    ],
+    "C2/C2_00/park/idle": [
+      "001.mp4"
+    ],
+    "C2/C2_00/park/lean": [
+      "001.mp4"
+    ],
+    "C2/C2_00/apartment_living/idle": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "C2/C2_00/apartment_living/look_away": [
+      "001.mp4"
+    ],
+    "C2/C2_00/apartment_living/wind": [
+      "001.mp4"
+    ],
+    "C2/C2_00/apartment_living/turn_head": [
+      "001.mp4"
+    ],
+    "C2/C2_00/apartment_living/talk": [
+      "001.mp4"
+    ],
+    "C2/C2_00/library/idle": [
+      "001.mp4"
+    ],
+    "C2/C2_00/library/lean": [
+      "001.mp4"
+    ],
+    "C2/C2_00/library/smile": [
+      "001.mp4"
+    ],
+    "C2/C2_00/cafe_arcade_rain/idle": [
+      "001.mp4"
+    ],
+    "C2/C2_00/cafe_arcade_rain/finger_tap": [
+      "001.mp4"
+    ],
+    "C2/C2_00/teahouse/idle": [
+      "001.mp4"
+    ],
+    "C2/C2_00/teahouse/finger_tap": [
+      "001.mp4"
+    ],
+    "C2/C2_00/ruins/idle": [
+      "001.mp4",
+      "002.mp4"
+    ],
+    "C2/C2_00/rooftop_old/idle": [
+      "001.mp4"
+    ],
+    "C2/C2_00/street/idle": [
+      "001.mp4",
+      "002.mp4",
+      "003.mp4"
+    ],
+    "C2/C2_00/street/lean": [
+      "001.mp4"
+    ],
+    "C2/C2_00/street/look_away": [
+      "001.mp4"
+    ],
+    "C2/C2_00/street/sad": [
+      "001.mp4"
+    ],
+    "C2/C2_00/street/fear": [
+      "001.mp4"
+    ],
+    "C2/C2_00/street/surprise": [
+      "001.mp4"
+    ],
+    "C2/C2_00/street/anger": [
+      "001.mp4"
+    ],
+    "C2/C2_00/street/nod": [
+      "001.mp4"
+    ],
+    "C2/C2_00/street/sigh": [
+      "001.mp4"
+    ],
+    "C2/C2_00/street/smile": [
+      "001.mp4"
+    ],
+    "C2/C2_00/street/talk": [
+      "001.mp4"
+    ],
+    "C2/C2_00/arena/idle": [
+      "001.mp4"
+    ],
+    "C2/C2_00/rooftop_modern/idle": [
+      "001.mp4"
+    ],
+    "C2/C2_09/theater/idle": [
+      "001.mp4"
+    ]
+  }
 }
