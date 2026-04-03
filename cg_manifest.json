@@ -1,0 +1,951 @@
+{
+  "files": {
+    "A1/A1_00/apartment_bedroom": [
+      "001.png"
+    ],
+    "A1/A1_00/apartment_window": [
+      "001.png"
+    ],
+    "A1/A1_00/arena": [
+      "001.png"
+    ],
+    "A1/A1_00/cafe_arcade": [
+      "001.png"
+    ],
+    "A1/A1_00/corridor": [
+      "001.png",
+      "002.png",
+      "003.png"
+    ],
+    "A1/A1_00/interrogation": [
+      "001.png",
+      "002.png",
+      "003.png",
+      "004.png",
+      "005.png",
+      "006.png",
+      "007.png"
+    ],
+    "A1/A1_00/library": [
+      "001.png"
+    ],
+    "A1/A1_00/observation_room": [
+      "001.png",
+      "002.png",
+      "003.png"
+    ],
+    "A1/A1_00/office": [
+      "001.png",
+      "002.png",
+      "003.png",
+      "004.png",
+      "005.png",
+      "006.png",
+      "007.png",
+      "008.png",
+      "009.png",
+      "010.png",
+      "011.png",
+      "012.png",
+      "013.png",
+      "014.png",
+      "015.png",
+      "016.png"
+    ],
+    "A1/A1_00/park": [
+      "001.png"
+    ],
+    "A1/A1_00/portrait": [
+      "001.png",
+      "002.png",
+      "003.png",
+      "004.png",
+      "005.png",
+      "006.png",
+      "007.png",
+      "008.png",
+      "009.png",
+      "010.png",
+      "011.png",
+      "012.png",
+      "013.png",
+      "014.png",
+      "015.png"
+    ],
+    "A1/A1_00/rain_street": [
+      "001.png"
+    ],
+    "A1/A1_00/restaurant": [
+      "001.png"
+    ],
+    "A1/A1_00/riverside": [
+      "001.png"
+    ],
+    "A1/A1_00/rooftop_modern": [
+      "001.png"
+    ],
+    "A1/A1_00/rooftop_old": [
+      "001.png"
+    ],
+    "A1/A1_00/ruins": [
+      "001.png"
+    ],
+    "A1/A1_00/scrappers_eden": [
+      "001.png"
+    ],
+    "A1/A1_00/street": [
+      "001.png",
+      "002.png"
+    ],
+    "A1/A1_00/surveillance_tower": [
+      "001.png",
+      "002.png",
+      "003.png",
+      "004.png"
+    ],
+    "A1/A1_00/teahouse": [
+      "001.png"
+    ],
+    "A1/A1_00/theater": [
+      "001.png"
+    ],
+    "A1/A1_01/apartment_bedroom": [
+      "001.png"
+    ],
+    "A1/A1_01/park": [
+      "001.png"
+    ],
+    "A1/A1_02/apartment_window": [
+      "001.png"
+    ],
+    "A1/A1_04/apartment_living": [
+      "001.png"
+    ],
+    "A1/A1_04/gym": [
+      "001.png"
+    ],
+    "A1/A1_05/apartment_kitchen": [
+      "001.png"
+    ],
+    "A1/A1_06/observatory": [
+      "001.png"
+    ],
+    "A1/A1_06/park": [
+      "001.png"
+    ],
+    "A2/A2_00/apartment_bedroom": [
+      "001.png",
+      "002.png"
+    ],
+    "A2/A2_00/apartment_kitchen": [
+      "001.png"
+    ],
+    "A2/A2_00/apartment_window": [
+      "001.png"
+    ],
+    "A2/A2_00/archive_room": [
+      "001.png",
+      "002.png",
+      "003.png",
+      "004.png"
+    ],
+    "A2/A2_00/arena": [
+      "001.png"
+    ],
+    "A2/A2_00/cafe_modern": [
+      "001.png",
+      "002.png"
+    ],
+    "A2/A2_00/corridor": [
+      "001.png",
+      "002.png",
+      "003.png",
+      "004.png",
+      "005.png",
+      "006.png",
+      "007.png"
+    ],
+    "A2/A2_00/lab": [
+      "001.png",
+      "002.png",
+      "003.png",
+      "004.png",
+      "005.png",
+      "006.png",
+      "007.png",
+      "008.png",
+      "009.png"
+    ],
+    "A2/A2_00/library": [
+      "001.png",
+      "002.png"
+    ],
+    "A2/A2_00/observation_room": [
+      "001.png",
+      "002.png",
+      "003.png",
+      "004.png"
+    ],
+    "A2/A2_00/observatory": [
+      "001.png",
+      "002.png"
+    ],
+    "A2/A2_00/park": [
+      "001.png",
+      "002.png",
+      "003.png"
+    ],
+    "A2/A2_00/portrait": [
+      "001.png",
+      "002.png",
+      "003.png",
+      "004.png",
+      "005.png",
+      "006.png",
+      "007.png",
+      "008.png"
+    ],
+    "A2/A2_00/rain_street": [
+      "001.png",
+      "002.png",
+      "003.png",
+      "004.png",
+      "005.png"
+    ],
+    "A2/A2_00/restaurant": [
+      "001.png",
+      "002.png",
+      "003.png"
+    ],
+    "A2/A2_00/riverside": [
+      "001.png",
+      "002.png"
+    ],
+    "A2/A2_00/rooftop_modern": [
+      "001.png",
+      "002.png"
+    ],
+    "A2/A2_00/rooftop_old": [
+      "001.png",
+      "002.png"
+    ],
+    "A2/A2_00/ruins": [
+      "001.png",
+      "002.png"
+    ],
+    "A2/A2_00/scrappers_eden": [
+      "001.png",
+      "002.png"
+    ],
+    "A2/A2_00/street": [
+      "001.png",
+      "002.png"
+    ],
+    "A2/A2_00/teahouse": [
+      "001.png"
+    ],
+    "A2/A2_00/theater": [
+      "001.png",
+      "002.png"
+    ],
+    "A2/A2_00/typhoon_pier": [
+      "001.png",
+      "002.png"
+    ],
+    "A2/A2_00/vinyl_loft": [
+      "001.png",
+      "002.png"
+    ],
+    "A2/A2_03/park": [
+      "001.png"
+    ],
+    "A2/A2_03/street": [
+      "001.png"
+    ],
+    "A2/A2_03/vinyl_loft": [
+      "001.png"
+    ],
+    "A2/A2_07/rooftop_old": [
+      "001.png"
+    ],
+    "A2/A2_07/street": [
+      "001.png",
+      "002.png"
+    ],
+    "A2/A2_10/vinyl_loft": [
+      "001.png"
+    ],
+    "A2/A2_10/workshop": [
+      "001.png",
+      "002.png",
+      "003.png",
+      "004.png",
+      "005.png",
+      "006.png",
+      "007.png",
+      "008.png",
+      "009.png",
+      "010.png",
+      "011.png",
+      "012.png",
+      "013.png",
+      "014.png"
+    ],
+    "B1": [
+      "B1_Main_01.jpeg"
+    ],
+    "B1/B1_00/arena": [
+      "001.png"
+    ],
+    "B1/B1_00/cafe_arcade": [
+      "001.png"
+    ],
+    "B1/B1_00/cafe_modern": [
+      "001.png"
+    ],
+    "B1/B1_00/flower_shop": [
+      "001.png",
+      "002.png"
+    ],
+    "B1/B1_00/flower_shop_interior": [
+      "001.png",
+      "002.png",
+      "003.png"
+    ],
+    "B1/B1_00/library": [
+      "001.png"
+    ],
+    "B1/B1_00/park": [
+      "001.png"
+    ],
+    "B1/B1_00/portrait": [
+      "001.png",
+      "002.png",
+      "003.png",
+      "004.png",
+      "005.png"
+    ],
+    "B1/B1_00/rain_street": [
+      "001.png",
+      "002.png"
+    ],
+    "B1/B1_00/restaurant": [
+      "001.png"
+    ],
+    "B1/B1_00/riverside": [
+      "001.png"
+    ],
+    "B1/B1_00/rooftop_modern": [
+      "001.png"
+    ],
+    "B1/B1_00/rooftop_old": [
+      "001.png"
+    ],
+    "B1/B1_00/ruins": [
+      "001.png"
+    ],
+    "B1/B1_00/scrappers_eden": [
+      "001.png"
+    ],
+    "B1/B1_00/street": [
+      "001.png"
+    ],
+    "B1/B1_00/teahouse": [
+      "001.png"
+    ],
+    "B1/B1_01/riverside": [
+      "001.png"
+    ],
+    "B1/B1_02/apartment_window": [
+      "001.png"
+    ],
+    "B1/B1_02/street": [
+      "001.png",
+      "002.png"
+    ],
+    "B1/B1_03/alley": [
+      "001.png",
+      "002.png",
+      "003.png",
+      "004.png",
+      "005.png",
+      "006.png",
+      "007.png",
+      "008.png",
+      "009.png",
+      "010.png",
+      "011.png"
+    ],
+    "B1/B1_03/flower_shop_exterior": [
+      "001.png"
+    ],
+    "B1/B1_03/scrappers_eden": [
+      "001.png"
+    ],
+    "B1/B1_03/street": [
+      "001.png",
+      "002.png"
+    ],
+    "B1/B1_03/teahouse": [
+      "001.png"
+    ],
+    "B1/B1_04/arena": [
+      "001.png"
+    ],
+    "B1/B1_06/rooftop_old": [
+      "001.png"
+    ],
+    "B1/B1_06/street": [
+      "001.png",
+      "002.png",
+      "003.png"
+    ],
+    "B1/B1_08/cafe_modern": [
+      "001.png"
+    ],
+    "B1/B1_08/street": [
+      "001.png",
+      "002.png"
+    ],
+    "B1/B1_09/garage": [
+      "001.png"
+    ],
+    "B1/B1_09/scrappers_eden": [
+      "001.png"
+    ],
+    "B2/B2_00/arena": [
+      "001.png"
+    ],
+    "B2/B2_00/cafe_arcade": [
+      "001.png"
+    ],
+    "B2/B2_00/flower_shop_upstairs": [
+      "001.png",
+      "002.png",
+      "003.png",
+      "004.png"
+    ],
+    "B2/B2_00/library": [
+      "001.png"
+    ],
+    "B2/B2_00/observation_room": [
+      "001.png"
+    ],
+    "B2/B2_00/observatory": [
+      "001.png",
+      "002.png"
+    ],
+    "B2/B2_00/park": [
+      "001.png",
+      "002.png"
+    ],
+    "B2/B2_00/portrait": [
+      "001.png",
+      "002.png",
+      "003.png",
+      "004.png",
+      "005.png",
+      "006.png"
+    ],
+    "B2/B2_00/rain_street": [
+      "001.png",
+      "002.png"
+    ],
+    "B2/B2_00/restaurant": [
+      "001.png"
+    ],
+    "B2/B2_00/riverside": [
+      "001.png"
+    ],
+    "B2/B2_00/rooftop_modern": [
+      "001.png"
+    ],
+    "B2/B2_00/rooftop_old": [
+      "001.png"
+    ],
+    "B2/B2_00/ruins": [
+      "001.png",
+      "002.png"
+    ],
+    "B2/B2_00/scrappers_eden": [
+      "001.png"
+    ],
+    "B2/B2_00/street": [
+      "001.png"
+    ],
+    "B2/B2_00/teahouse": [
+      "001.png"
+    ],
+    "B2/B2_00/theater": [
+      "001.png"
+    ],
+    "B2/B2_06/street": [
+      "001.png"
+    ],
+    "B2/B2_07/street": [
+      "001.png",
+      "002.png"
+    ],
+    "B2/B2_Florist/flower_shop": [
+      "001.png",
+      "002.png",
+      "003.png",
+      "004.png",
+      "005.png"
+    ],
+    "B2/B2_Florist/flower_shop_exterior": [
+      "001.png",
+      "002.png",
+      "003.png",
+      "004.png",
+      "005.png"
+    ],
+    "B2/B2_Florist/workshop": [
+      "001.png"
+    ],
+    "C1": [
+      "C1_Main_01.jpeg"
+    ],
+    "C1/C1_00/arena": [
+      "001.png",
+      "002.png"
+    ],
+    "C1/C1_00/correction_room": [
+      "001.png",
+      "002.png",
+      "003.png"
+    ],
+    "C1/C1_00/corridor": [
+      "001.png",
+      "002.png",
+      "003.png",
+      "004.png",
+      "005.png",
+      "006.png",
+      "007.png",
+      "008.png",
+      "009.png"
+    ],
+    "C1/C1_00/interrogation": [
+      "001.png",
+      "002.png",
+      "003.png",
+      "004.png",
+      "005.png"
+    ],
+    "C1/C1_00/library": [
+      "001.png"
+    ],
+    "C1/C1_00/observation_room": [
+      "001.png",
+      "002.png",
+      "003.png",
+      "004.png",
+      "005.png",
+      "006.png",
+      "007.png",
+      "008.png"
+    ],
+    "C1/C1_00/portrait": [
+      "001.png",
+      "002.png",
+      "003.png",
+      "004.png",
+      "005.png",
+      "006.png",
+      "007.png"
+    ],
+    "C1/C1_00/rain_street": [
+      "001.png"
+    ],
+    "C1/C1_00/restaurant": [
+      "001.png"
+    ],
+    "C1/C1_00/rooftop_modern": [
+      "001.png"
+    ],
+    "C1/C1_00/rooftop_old": [
+      "001.png"
+    ],
+    "C1/C1_00/ruins": [
+      "001.png"
+    ],
+    "C1/C1_00/scrappers_eden": [
+      "001.png"
+    ],
+    "C1/C1_00/street": [
+      "001.png"
+    ],
+    "C1/C1_00/teahouse": [
+      "001.png"
+    ],
+    "C1/C1_00/typhoon_pier": [
+      "001.png"
+    ],
+    "C1/C1_01/street": [
+      "001.png"
+    ],
+    "C1/C1_06/ruins": [
+      "001.png"
+    ],
+    "C2": [
+      "C2_Main_01.jpg"
+    ],
+    "C2/C2_00/arena": [
+      "001.png"
+    ],
+    "C2/C2_00/cafe_modern": [
+      "001.png"
+    ],
+    "C2/C2_00/library": [
+      "001.png"
+    ],
+    "C2/C2_00/observation_room": [
+      "001.png",
+      "002.png"
+    ],
+    "C2/C2_00/observatory": [
+      "001.png"
+    ],
+    "C2/C2_00/park": [
+      "001.png",
+      "002.png"
+    ],
+    "C2/C2_00/portrait": [
+      "001.png",
+      "002.png",
+      "003.png",
+      "004.png",
+      "005.png",
+      "006.png",
+      "007.png",
+      "008.png",
+      "009.png",
+      "010.png",
+      "011.png",
+      "012.png",
+      "013.png",
+      "014.png",
+      "015.png",
+      "016.png",
+      "017.png",
+      "018.png",
+      "019.png"
+    ],
+    "C2/C2_00/rain_street": [
+      "001.png"
+    ],
+    "C2/C2_00/riverside": [
+      "001.png"
+    ],
+    "C2/C2_00/rooftop_modern": [
+      "001.png"
+    ],
+    "C2/C2_00/rooftop_old": [
+      "001.png"
+    ],
+    "C2/C2_00/scrappers_eden": [
+      "001.png"
+    ],
+    "C2/C2_00/street": [
+      "001.png"
+    ],
+    "C2/C2_00/teahouse": [
+      "001.png"
+    ],
+    "C2/C2_00/theater": [
+      "001.png",
+      "002.png",
+      "003.png"
+    ],
+    "C2/C2_00/virtual_stage": [
+      "001.png",
+      "002.png",
+      "003.png",
+      "004.png",
+      "005.png",
+      "006.png"
+    ],
+    "C2/C2_01/rooftop_modern": [
+      "001.png"
+    ],
+    "C2/C2_03/park": [
+      "001.png"
+    ],
+    "C2/C2_03/riverside": [
+      "001.png"
+    ],
+    "C2/C2_07/street": [
+      "001.png"
+    ],
+    "C2/C2_09/theater": [
+      "001.png",
+      "002.png"
+    ],
+    "Chapters/CH1/A2": [
+      "workshop_01.png",
+      "workshop_02.png",
+      "workshop_03.png",
+      "workshop_04.png",
+      "workshop_05.png",
+      "workshop_06.png",
+      "workshop_07.png",
+      "workshop_08.png",
+      "workshop_09.png",
+      "workshop_10.png"
+    ],
+    "Chapters/CH1/B1": [
+      "alley_01.png",
+      "alley_02.png",
+      "alley_03.png",
+      "alley_04.png",
+      "alley_05.png",
+      "alley_06.png",
+      "alley_07.png",
+      "alley_08.png",
+      "alley_09.png",
+      "alley_10.png",
+      "flower_shop.png"
+    ],
+    "Chapters/CH1/B2": [
+      "flower_shop_01.png",
+      "flower_shop_02.png",
+      "flower_shop_03.png",
+      "flower_shop_04.png"
+    ],
+    "Chapters/CH1/NPC": [
+      "workshop_01.png",
+      "workshop_02.png",
+      "workshop_03.png"
+    ],
+    "Chapters/CH1/env": [
+      "alley.png",
+      "workshop_01.png",
+      "workshop_02.png",
+      "workshop_03.png",
+      "workshop_04.png",
+      "workshop_05.png",
+      "workshop_06.png",
+      "workshop_07.png"
+    ],
+    "Chapters/CH2/B1B2": [
+      "flower_shop_01.png",
+      "flower_shop_02.png"
+    ],
+    "Chapters/CH2/B2": [
+      "alley_01.png",
+      "alley_02.png",
+      "alley_03.png",
+      "alley_04.png",
+      "flower_shop_01.png",
+      "flower_shop_02.png",
+      "flower_shop_03.png",
+      "flower_shop_upstairs.png"
+    ],
+    "Chapters/CH3/A1": [
+      "corridor.png",
+      "interrogation_01.png",
+      "interrogation_02.png",
+      "interrogation_03.png",
+      "interrogation_04.png",
+      "interrogation_05.png",
+      "interrogation_06.png",
+      "interrogation_07.png",
+      "surveillance_tower_01.png",
+      "surveillance_tower_02.png",
+      "surveillance_tower_03.png",
+      "surveillance_tower_04.png"
+    ],
+    "Chapters/CH3/B1": [
+      "flower_shop_01.png",
+      "flower_shop_02.png",
+      "flower_shop_03.png"
+    ],
+    "Chapters/CH3/B1B2": [
+      "flower_shop_01.png",
+      "flower_shop_02.png"
+    ],
+    "Chapters/CH3/B2": [
+      "flower_shop_upstairs_01.png",
+      "flower_shop_upstairs_02.png",
+      "flower_shop_upstairs_03.png"
+    ],
+    "Chapters/CH3/C1": [
+      "interrogation_01.png",
+      "interrogation_02.png",
+      "interrogation_03.png",
+      "interrogation_04.png",
+      "interrogation_05.png",
+      "observation_room_01.png",
+      "observation_room_02.png",
+      "observation_room_03.png",
+      "observation_room_04.png"
+    ],
+    "Chapters/CH3/env": [
+      "flower_shop_upstairs.png",
+      "observation_room.png",
+      "street_01.png",
+      "street_02.png",
+      "street_03.png",
+      "street_04.png"
+    ],
+    "Chapters/CH4/A1": [
+      "corridor_01.png",
+      "corridor_02.png",
+      "observation_room_01.png",
+      "observation_room_02.png"
+    ],
+    "Chapters/CH4/A2": [
+      "corridor_01.png",
+      "corridor_02.png",
+      "lab_01.png",
+      "lab_02.png",
+      "observation_room.png"
+    ],
+    "Chapters/CH4/C1": [
+      "corridor_01.png",
+      "corridor_02.png",
+      "observation_room_01.png",
+      "observation_room_02.png",
+      "observation_room_03.png"
+    ],
+    "Chapters/CH4/C2": [
+      "observation_room_01.png",
+      "observation_room_02.png"
+    ],
+    "Chapters/CH4/env": [
+      "corridor_01.png",
+      "corridor_02.png",
+      "corridor_03.png",
+      "lab.png",
+      "observation_room_01.png",
+      "observation_room_02.png",
+      "observation_room_03.png",
+      "observation_room_04.png",
+      "observation_room_05.png",
+      "observation_room_06.png"
+    ],
+    "Chapters/CH4/props": [
+      "egg_tuning_fork.png"
+    ],
+    "Chapters/CH5/A1": [
+      "observation_room.png",
+      "office_01.png",
+      "office_02.png",
+      "office_03.png",
+      "office_04.png",
+      "office_05.png",
+      "office_06.png",
+      "office_07.png",
+      "office_08.png",
+      "office_09.png",
+      "office_10.png",
+      "office_11.png"
+    ],
+    "Chapters/CH5/A2": [
+      "lab_01.png",
+      "lab_02.png",
+      "lab_03.png",
+      "lab_04.png",
+      "lab_05.png",
+      "lab_06.png"
+    ],
+    "Chapters/CH5/B2": [
+      "observation_room.png"
+    ],
+    "Chapters/CH5/C1": [
+      "correction_room_01.png",
+      "correction_room_02.png",
+      "correction_room_03.png"
+    ],
+    "Chapters/CH5/env": [
+      "correction_room.png",
+      "corridor.png",
+      "lab.png",
+      "memory_fragment.png",
+      "observation_room_01.png",
+      "observation_room_02.png",
+      "observation_room_03.png",
+      "observation_room_04.png",
+      "observation_room_05.png",
+      "observation_room_06.png",
+      "observation_room_07.png",
+      "observation_room_08.png",
+      "observation_room_09.png",
+      "observation_room_10.png",
+      "observation_room_11.png",
+      "observation_room_12.png",
+      "observation_room_13.png",
+      "observation_room_14.png",
+      "observation_room_15.png",
+      "observation_room_16.png",
+      "office_01.png",
+      "office_02.png",
+      "office_03.png"
+    ],
+    "Chapters/CH6/A1": [
+      "office_01.png",
+      "office_02.png",
+      "office_03.png"
+    ],
+    "Chapters/CH6/A2": [
+      "archive_room_01.png",
+      "archive_room_02.png",
+      "archive_room_03.png",
+      "corridor_01.png",
+      "corridor_02.png",
+      "corridor_03.png",
+      "corridor_04.png",
+      "corridor_05.png",
+      "lab.png",
+      "observation_room_01.png",
+      "observation_room_02.png"
+    ],
+    "Chapters/CH6/B2": [
+      "core_perimeter.png"
+    ],
+    "Chapters/CH6/C1": [
+      "corridor_01.png",
+      "corridor_02.png",
+      "corridor_03.png",
+      "corridor_04.png",
+      "corridor_05.png",
+      "corridor_06.png",
+      "corridor_07.png"
+    ],
+    "Chapters/CH6/C2": [
+      "virtual_stage_01.png",
+      "virtual_stage_02.png",
+      "virtual_stage_03.png",
+      "virtual_stage_04.png",
+      "virtual_stage_05.png",
+      "virtual_stage_06.png"
+    ],
+    "Chapters/CH6/env": [
+      "archive_room.png",
+      "core_perimeter_01.png",
+      "core_perimeter_02.png",
+      "corridor_01.png",
+      "corridor_02.png",
+      "observation_room_01.png",
+      "observation_room_02.png"
+    ],
+    "Chapters/shared_env": [
+      "asset_shared_01_1.png",
+      "asset_shared_01_2.png",
+      "asset_shared_01_3.png",
+      "asset_shared_02_2.png",
+      "asset_shared_02_3.png"
+    ]
+  },
+  "chapter_outfits": {
+    "Chapter1": {
+      "A1": "A1_00",
+      "A2": "A2_10",
+      "B1": "B1_03",
+      "B2": "B2_Florist",
+      "C1": "C1_00",
+      "C2": "C2_00"
+    }
+  }
+}
